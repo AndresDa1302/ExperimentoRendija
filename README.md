@@ -11,6 +11,13 @@
 
 * En la siguiente imagen se pude observar cómo es el comportamiento de las partículas en el experimento con un boceto.
 
+
+![](Images/Dibujo1.jpeg)
+
+![](Images/Dibujo2.jpeg)
+
+![](Images/Dibujo3.jpeg)
+
 * En un momento se explicara como funciona este fenomeno 
 
 ## Materiales del experimento
@@ -34,6 +41,16 @@
 
 
 ## Proceso
+/Images/Montaje1.jpeg
+
+![](Images/Montaje1.jpeg)
+
+![](Images/Montaje2.jpeg)
+
+![](Images/Montaje3.jpeg)
+
+![](Images/Montaje4.jpeg)
+
 
 ## Desarollo del experimento
 
@@ -43,6 +60,13 @@
 
 ## Sistema
 * Antes de seguir se debe tener en cuenta la forma en que el experimento sera representado como un sistema cuantico, este sistema tendra una matriz de adyacencia asociada y un vector el cual representara el estado inicial del sistema, donde sus posiciones representaran el peso de una conexion especifica entre componentes del sistema, a continuacion se mostrar un ejemplo del sistema cuantico para el experimento de la doble rendija.
+
+
+## Simulación del experimento
+
+![](Images/Simulacion.JPG)
+
+![](Images/Matriz%20de%20adyacencia.JPG)
 
 
 
