@@ -41,7 +41,6 @@
 
 
 ## Proceso
-/Images/Montaje1.jpeg
 
 ![](Images/Montaje1.jpeg)
 
@@ -50,6 +49,14 @@
 ![](Images/Montaje3.jpeg)
 
 ![](Images/Montaje4.jpeg)
+
+![](Images/d1.jpeg)
+
+![](Images/d2.jpeg)
+
+![](Images/d3.jpeg)
+
+![](Images/d4.jpeg)
 
 
 ## Desarollo del experimento
