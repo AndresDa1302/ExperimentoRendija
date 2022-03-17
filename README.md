@@ -9,13 +9,13 @@
 ## Inicio
 <p>El experimento de la doble rendija fue planteado originalmente en 1801 por Thomas Young y lo hizo con la intención de determinar si la luz se comportaba como onda o como partícula, actualmente este experimento se repoduce en una cámara oscura la cual deja entrar un haz de luz por una rendija estrecha, cuando la luz llega a una pared intermedia de dos rendijas, la luz debe pasar por alguna de estas dos y chocar con una placa que se encuentra despues de la rendija .</p>
 
-*En la siguiente imagen se pude observar cómo es el comportamiento de las partículas en el experimento con un boceto.
+* En la siguiente imagen se pude observar cómo es el comportamiento de las partículas en el experimento con un boceto.
 
-*En un momento se explicara como funciona este fenomeno 
+* En un momento se explicara como funciona este fenomeno 
 
 ## Materiales del experimento
 
-*Materiales:
+* Materiales:
 	1. Laser
 	2. Caja de zapatos
 	3. 2/8 de carton paja
